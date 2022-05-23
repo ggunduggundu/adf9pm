@@ -1,0 +1,9 @@
+{
+	"name": "ggkdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4277d598-c28f-4762-894d-3d41bd13daf5",
+		"tenantId": "93f33571-550f-43cf-b09f-cd331338d086"
+	}
+}
